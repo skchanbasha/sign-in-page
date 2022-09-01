@@ -1,0 +1,115 @@
+.Login
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(bashabai.jpg);
+    background-position: center;
+    background-size: 150%;
+    margin-bottom: 20%;
+}
+
+
+.input-box
+{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px -15px;
+    width: 100%;
+    border: 1px solid #999;
+    outline: rgb(0, 0, 0) ;
+    border-color: #424547;
+
+    background-color: #CFD2CF;
+}
+button
+{
+    color:  #fff;
+    width: 80%;
+    padding: 10%;
+    border-radius: 20px;
+    font-size: 20px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 15px 32px;
+}
+.signup-btn
+{
+    background-color:#0F3D3E;
+    border-radius: 20px;
+    
+}
+hr
+{
+    margin-top: 20px;
+    width: 80%;
+
+}
+.or
+{
+    background: #fff;
+    width: 30px;
+    margin: -19px auto 10px;
+}
+
+.sign-in-form
+{
+    width: 350px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: rgba(255, 255, 255, 0.623);
+    padding: 20px;
+    margin: 10% auto 0;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.email
+{
+    margin-right: 260px;
+}
+.password
+{
+    margin-right: 220px;
+}
+.Password2
+{
+    margin-right: 180px;
+}
+a
+{
+    color: rgb(12, 12, 12);
+}
+.sign-up-form h1
+{
+    color: #196566;
+    margin-bottom: 20px;
+    font-family: "Times New Roman", Times, serif;
+}
+.sign-up-form
+{
+    width: 350px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background: rgba(255, 255, 255, 0.623);
+    padding: 20px;
+    margin: 10% auto 0;
+    text-align: center;
+    border-radius: 30px;
+}
+.page3
+{
+font-family: "Times New Roman", Times, serif;
+color: #0F3D3E;
+text-align: center;
+margin-right: 200px;
+}
+
+.profiledetails
+{
+    background-color: #999;
+}
+.link
+{
+    color: #0F3D3E;
+}
